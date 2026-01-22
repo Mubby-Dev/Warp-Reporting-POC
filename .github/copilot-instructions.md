@@ -18,7 +18,7 @@ Consistent with Zero Trust principles
 
 Avoid demos, shortcuts, or sample-only implementations.
 
-2. Architecture Overview (DO NOT VIOLATE)
+2. Architecture Overview (PLEASE DO NOT VIOLATE)
 Frontend
 
 React 18
